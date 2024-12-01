@@ -34,6 +34,9 @@ Neo4j for social and professional connection mapping.
 
 ## Dependencies
 Authentication
+
 Payment Processing
+
 VR Hardware
+
 Messaging
