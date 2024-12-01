@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 01/12/2024
+## Register Number: 24001601
+## Name: Avantika Krishnadas Kundooly
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,30 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+1. Virtual Reality (VR) Integration : Host virtual campus tours for nostalgia-driven engagement. Enable VR networking lounges where alumni can interact as avatars.
+2. AI-Powered Personalization : Smart notifications tailored to individual interests and engagement patterns. AI matchmaking for mentorship and professional networking.
+3. Blockchain-Based Crowdfunding : Transparent donation mechanisms using blockchain. Alumni can track the impact of their contributions in real-time.
+4. Gamified Engagement : Leaderboards for participation in events, donations, and mentorship. Alumni earn badges and recognition for contributions.
+5. Data-Driven Success Stories : AI tools curate alumni career journeys and milestones automatically. Real-time trend analysis to highlight impactful alumni.
+6. Event Automation : Smart RSVP systems with real-time attendance tracking. Hybrid events combining in-person and live-streamed sessions.
 
 ## Proposed Solution / Architecture Diagram
+![Untitled document](https://github.com/user-attachments/assets/459be035-a7f9-49a8-abba-fef0d865880b)
 
 
 ## Use Cases
+![Untitled document (1)](https://github.com/user-attachments/assets/df656675-1ac3-4211-9862-b735e94e43e8)
 
 
 ## Technology Stack
-
+React.js (Web),
+Flutter (Mobile),
+Django (Python) or Node.js (Express),
+PostgreSQL for core data,
+Neo4j for social and professional connection mapping.
 
 ## Dependencies
-
+Authentication
+Payment Processing
+VR Hardware
+Messaging
